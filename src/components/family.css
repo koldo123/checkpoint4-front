@@ -1,0 +1,8 @@
+.family_button {
+  padding: 2rem;
+  background-color: rgb(31, 117, 216);
+  color: white;
+  border: none;
+  border-radius: 15px;
+  cursor: pointer;
+}
